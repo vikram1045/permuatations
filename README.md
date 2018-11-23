@@ -1,2 +1,2 @@
-# permuatations using python
+# permuatations using python.
 calculating permutations
